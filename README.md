@@ -1,28 +1,21 @@
-### Hi there 👋
+### Olá! 👋
+## Eu sou o Álisson Pereira Ferreira.
 
-<!--
-**AlehPF/AlehPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Apaixonado por tecnologia
+- 🌱 Estudante de Engenharia de Computacao 4/10
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Olá! Eu sou o Álisson Pereira Ferreira.
-🎒  Estudando Engenharia de Computacao na UFSC.
 
 <div align="center">
   <a href="https://github.com/AlehPF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlehPF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehPF&layout=compact&langs_count=7&theme=dark"/>
 
+
 </div>
+
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-C" height="30" width="75" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Ale-Python" height="30" width="75" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -30,7 +23,7 @@ Here are some ideas to get you started:
 
 </div>
   
-  ##
+  ## Redes sociais
 
 <div> 
 
