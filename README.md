@@ -1,6 +1,6 @@
 <img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=D98E20&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+Álisson+Pereira+Ferreira;Tenho+20+anos+de+idade!;+Sou+de+Áranragua,+SC.;E+estudo+Engenharia+de+Computação+na+UFSC.;SEJA+BEM-VINDO!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+Álisson+Pereira+Ferreira;Tenho+20+anos+de+idade!;+Sou+de+Árarangua,+SC.;E+estudo+Engenharia+de+Computação+na+UFSC.;SEJA+BEM-VINDO!!+:%29)](https://git.io/typing-svg)
 
 <div>
   
@@ -14,8 +14,9 @@
     <img align="left" height="250" alt="coding-time" src="Yoda.gif">
     <h1 align="center">Melhores Linguagens!</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+
   
   </div>
   <h1 align="center">Redes Sociais <3</h1>
