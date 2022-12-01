@@ -1,4 +1,6 @@
-## Olá, Eu sou o Álisson!
+<img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=D98E20&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+Álisson+Pereira+Ferreira;Tenho+20+anos+de+idade!;+Sou+de+Áranragua,+SC.;E+estudo+Engenharia+de+Computação+na+UFSC.;SEJA+BEM-VINDO!!+:%29)](https://git.io/typing-svg)
 
 <div>
   
