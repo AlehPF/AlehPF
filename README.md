@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá! Eu sou o Álisson Pereira Ferreira.
-🎒  Estudando cursando Engenharia de Computacao na UFSC.
+🎒  Estudando Engenharia de Computacao na UFSC.
 
 <div align="center">
   <a href="https://github.com/AlehPF">
